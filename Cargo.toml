@@ -1,0 +1,7 @@
+[package]
+name = "parallel_scaling"
+version = "0.1.0"
+authors = ["Nils Meier <nils.meier@studium.uni-hamburg.de>"]
+
+[dependencies]
+scoped_threadpool = "0.1.8"
